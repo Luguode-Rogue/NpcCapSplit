@@ -1,0 +1,14 @@
+# Visual Studio / Rider
+.vs/
+*.user
+*.suo
+*.userprefs
+NpcCapSplit/.vscode/
+
+# Build output
+bin/
+obj/
+
+# Misc
+*.cache
+Thumbs.db
